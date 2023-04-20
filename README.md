@@ -45,5 +45,7 @@ Fig.Pipelining
 ![problem_statment_1_2](https://user-images.githubusercontent.com/65547096/233433610-02aea793-153e-4b5b-8354-111fb701b0be.PNG)
 <br>
 Fig.Test Performed
+## Simulated Waveform
+![output_mips_behavioral](https://user-images.githubusercontent.com/65547096/233436536-a264b43f-597b-4342-91cb-1ea0cc312a09.PNG)
 
 
