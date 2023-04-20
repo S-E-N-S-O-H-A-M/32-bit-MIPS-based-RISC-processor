@@ -11,6 +11,7 @@ Fig.Pipelining
 ## Test Performed in TestBench
 ![problem statement1](https://user-images.githubusercontent.com/65547096/233433584-4580bf99-492d-463a-a58c-525c8386b611.PNG)
 ![problem_statment_1_2](https://user-images.githubusercontent.com/65547096/233433610-02aea793-153e-4b5b-8354-111fb701b0be.PNG)
+<br>
 Fig.Test Performed
 
 
